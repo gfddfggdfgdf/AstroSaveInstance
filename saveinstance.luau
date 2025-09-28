@@ -1673,7 +1673,7 @@ local function synsaveinstance(CustomOptions, CustomOptions2)
 	local currentstr, currentsize, totalsize, chunks = "", 0, 0, table.create(1)
 	local savebuffer, savebuffer_size =
 		{
-			'<!-- Saved by UniversalSynSaveInstance (Join to Copy Games) https://discord.gg/wx4ThpAsmw --><roblox version="4">',
+			'<!-- Saved by AstroSaveInstance (Credits to SynSaveInstance) https://discord.gg/wx4ThpAsmw --><roblox version="4">',
 		}, 2
 
 	local StatusText
@@ -3391,3 +3391,4 @@ local function synsaveinstance(CustomOptions, CustomOptions2)
 end
 
 return synsaveinstance
+
